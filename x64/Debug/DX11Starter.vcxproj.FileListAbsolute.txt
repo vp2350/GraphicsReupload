@@ -1,0 +1,17 @@
+C:\Users\Vansh\Desktop\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\DX11Starter.vcxproj.CopyComplete
+C:\Users\Vansh\Desktop\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\PixelShader.cso
+C:\Users\Vansh\Desktop\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\SkyPixelShader.cso
+C:\Users\Vansh\Desktop\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\SkyVertexShader.cso
+C:\Users\Vansh\Desktop\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\VertexShader.cso
+C:\Users\Vansh\Desktop\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\NormalPixelShader.cso
+C:\Users\Vansh\Desktop\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\NormalVertexShader.cso
+C:\Users\Vansh\Desktop\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\DX11Starter.exe
+C:\Users\Vansh\Desktop\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\DX11Starter.pdb
+C:\Users\Vansh\Desktop\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\xapobaseredist.pdb
+C:\Users\Vansh\Desktop\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\xaudio2_9redist.pdb
+C:\Users\Vansh\Desktop\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\xaudio2_9redist.dll
+B:\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\DX11Starter.vcxproj.CopyComplete
+B:\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\DX11Starter.exe
+B:\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\xapobaseredist.pdb
+B:\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\xaudio2_9redist.pdb
+B:\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\xaudio2_9redist.dll
