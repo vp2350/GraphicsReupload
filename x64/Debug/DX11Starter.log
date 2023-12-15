@@ -1,1 +1,28 @@
-﻿  DX11Starter.vcxproj -> B:\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\DX11Starter.exe
+﻿C:\Users\Vansh\Desktop\GraphicsReupload\PixelShader.hlsl(44,8-114): warning X3206: implicit truncation of vector type
+C:\Users\Vansh\Desktop\GraphicsReupload\PixelShader.hlsl(45,8-114): warning X3206: implicit truncation of vector type
+C:\Users\Vansh\Desktop\GraphicsReupload\PixelShader.hlsl(46,8-114): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\PixelShader.cso
+  compilation object save succeeded; see C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\SkyPixelShader.cso
+  compilation object save succeeded; see C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\SkyVertexShader.cso
+  compilation object save succeeded; see C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\VertexShader.cso
+C:\Users\Vansh\Desktop\GraphicsReupload\NormalPixelShader.hlsli(48,8-114): warning X3206: implicit truncation of vector type
+C:\Users\Vansh\Desktop\GraphicsReupload\NormalPixelShader.hlsli(49,8-114): warning X3206: implicit truncation of vector type
+C:\Users\Vansh\Desktop\GraphicsReupload\NormalPixelShader.hlsli(50,8-114): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\NormalPixelShader.cso
+  compilation object save succeeded; see C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\NormalVertexShader.cso
+  Camera.cpp
+  DXCore.cpp
+  Entity.cpp
+  Game.cpp
+C:\Users\Vansh\Desktop\GraphicsReupload\Game.cpp(322,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  Material.cpp
+  Mesh.cpp
+  SimpleShader.cpp
+  Sky.cpp
+  Transformation.cpp
+  Generating Code...
+  LINK : C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\DX11Starter.exe not found or not built by the last incremental link; performing full link
+  DX11Starter.vcxproj -> C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\DX11Starter.exe

@@ -2,27 +2,27 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>B:\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\DX11Starter.exe</FullPath>
+      <FullPath>C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\DX11Starter.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>B:\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\PixelShader.cso</FullPath>
+      <FullPath>C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\PixelShader.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>B:\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\SkyPixelShader.cso</FullPath>
+      <FullPath>C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\SkyPixelShader.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>B:\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\SkyVertexShader.cso</FullPath>
+      <FullPath>C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\SkyVertexShader.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>B:\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\VertexShader.cso</FullPath>
+      <FullPath>C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\VertexShader.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>B:\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\NormalPixelShader.cso</FullPath>
+      <FullPath>C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\NormalPixelShader.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>B:\WorkNew\Graphics\Pahuja_FinalProject (2)\Pahuja_FinalProject\x64\Debug\NormalVertexShader.cso</FullPath>
+      <FullPath>C:\Users\Vansh\Desktop\GraphicsReupload\x64\Debug\NormalVertexShader.cso</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />
